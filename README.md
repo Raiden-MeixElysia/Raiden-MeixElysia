@@ -10,7 +10,7 @@
   <a href="https://zacharyzhang.com"><img src="https://img.shields.io/badge/zacharyzhang.com-2148B8?style=for-the-badge&logoColor=F5F1E8" alt="Website"></a>
   <a href="https://zacharyzhang.com/files/Resume.pdf"><img src="https://img.shields.io/badge/Resume-2148B8?style=for-the-badge" alt="Resume PDF"></a>
   <a href="https://zacharyzhang.com/files/%E7%AE%80%E5%8E%86.pdf"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-2148B8?style=for-the-badge" alt="简历 PDF"></a>
-  <a href="https://x.com/Zachary_haha"><img src="https://img.shields.io/badge/X-2148B8?style=for-the-badge&logo=x&logoColor=F5F1E8" alt="X"></a>
+  <a href="https://x.com/ZacharyZhang"><img src="https://img.shields.io/badge/X-2148B8?style=for-the-badge&logo=x&logoColor=F5F1E8" alt="X"></a>
   <a href="https://www.linkedin.com/in/zacharyzhangee/"><img src="https://img.shields.io/badge/LinkedIn-2148B8?style=for-the-badge&logoColor=F5F1E8" alt="LinkedIn"></a>
   <a href="mailto:yang@zacharyzhang.com"><img src="https://img.shields.io/badge/yang@zacharyzhang.com-2148B8?style=for-the-badge" alt="Email"></a>
 </p>
