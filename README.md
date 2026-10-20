@@ -1,4 +1,4 @@
-<a href="https://zacharyzhang.com"><img src="assets/hero.jpg" width="100%" alt="Zachary Zhang: agents, infra, products. New York, 2026."></a>
+<a href="https://zacharyzhang.com"><img src="assets/banner.jpg" width="100%" alt="Zachary Zhang: agents, infra, products. New York, 2026."></a>
 
 <p align="center">
   <b>AI founder &nbsp;·&nbsp; product &amp; technology lead &nbsp;·&nbsp; New York</b>
