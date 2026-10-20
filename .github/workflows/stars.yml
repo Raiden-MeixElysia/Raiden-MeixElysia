@@ -1,0 +1,36 @@
+name: Stars
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [README.md, .github/scripts/stars.py]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/stars.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Star counts unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Stars: refresh counts"
+          git push
