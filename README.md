@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/elyoffice"><img src="assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 831<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 846<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
@@ -84,7 +84,7 @@
 
 | Repository | What it is | Stack | Stars |
 |:--|:--|:--|--:|
-| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 831<!--/stars--> |
+| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 846<!--/stars--> |
 | [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux, a port of Compositor | C++ · Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★ 4<!--/stars--> |
 | [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 89<!--/stars--> |
 | [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 63<!--/stars--> |
