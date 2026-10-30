@@ -57,7 +57,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ELYTerminal"><img src="assets/ely-terminal.jpg" width="100%" alt="ELY Terminal"></a>
-      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★ 255<!--/stars--></sub>
+      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★ 256<!--/stars--></sub>
       <br><sub>A terminal built on GPUI and the Ely components.</sub>
       <br><sub><a href="https://github.com/ELY-Open-Source/ELYTerminal">source</a></sub>
     </td>
@@ -86,7 +86,7 @@
 |:--|:--|:--|--:|
 | [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,122<!--/stars--> |
 | [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux, a port of Compositor | C++ · Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★ 5<!--/stars--> |
-| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 255<!--/stars--> |
+| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 256<!--/stars--> |
 | [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 122<!--/stars--> |
 | [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 3<!--/stars--> |
 | [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 6<!--/stars--> |
