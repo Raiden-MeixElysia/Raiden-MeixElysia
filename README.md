@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/elyoffice"><img src="assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 1,109<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 1,116<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
@@ -51,13 +51,13 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/agent-company"><img src="assets/agent-company.jpg" width="100%" alt="Agent Company"></a>
-      <br><b>Agent Company</b> &nbsp;<sub><code>Electron</code> &nbsp;<!--stars:ELY-Open-Source/AgentCompany-->★ 5<!--/stars--></sub>
+      <br><b>Agent Company</b> &nbsp;<sub><code>Electron</code> &nbsp;<!--stars:ELY-Open-Source/AgentCompany-->★ 6<!--/stars--></sub>
       <br><sub>A desktop company of AI agents. Set a goal; a CEO agent builds departments, delegates, and reports back from a pixel office.</sub>
       <br><sub><a href="https://agent-company.dev">agent-company.dev</a> · <a href="https://github.com/ELY-Open-Source/AgentCompany">source</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ELYTerminal"><img src="assets/ely-terminal.jpg" width="100%" alt="ELY Terminal"></a>
-      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★ 243<!--/stars--></sub>
+      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★ 248<!--/stars--></sub>
       <br><sub>A terminal built on GPUI and the Ely components.</sub>
       <br><sub><a href="https://github.com/ELY-Open-Source/ELYTerminal">source</a></sub>
     </td>
@@ -84,13 +84,13 @@
 
 | Repository | What it is | Stack | Stars |
 |:--|:--|:--|--:|
-| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,109<!--/stars--> |
+| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,116<!--/stars--> |
 | [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux, a port of Compositor | C++ · Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★ 5<!--/stars--> |
-| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 243<!--/stars--> |
+| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 248<!--/stars--> |
 | [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 120<!--/stars--> |
 | [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 3<!--/stars--> |
-| [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 5<!--/stars--> |
-| [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★ 32<!--/stars--> |
+| [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 6<!--/stars--> |
+| [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★ 33<!--/stars--> |
 | [**MujicaUI**](https://github.com/ELY-Open-Source/MujicaUI) | Court-gothic components for MyGo | Go | <!--stars:ELY-Open-Source/MujicaUI-->★ 13<!--/stars--> |
 | [**8bitMyGoUI**](https://github.com/ELY-Open-Source/8bitMyGoUI) | 16-bit pixel-art components, in the browser via Wasm | Go | <!--stars:ELY-Open-Source/8bitMyGoUI-->★ 9<!--/stars--> |
 | [**Elydora SDKs**](https://github.com/Elydora-Infra) | [Go](https://github.com/Elydora-Infra/Elydora-Go-SDK) · [Node](https://github.com/Elydora-Infra/Elydora-Node-SDK) · [Python](https://github.com/Elydora-Infra/Elydora-Python-SDK) · [Open Source](https://github.com/Elydora-Infra/Elydora-Open-Source) | Go · JS · Py | |
