@@ -29,7 +29,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/kigi"><img src="assets/kigi.jpg" width="100%" alt="Kigi CLI"></a>
-      <br><b>Kigi CLI</b> &nbsp;<sub><code>Rust</code> &nbsp;<!--stars:ELY-Open-Source/Kigi-CLI-->★ 6<!--/stars--></sub>
+      <br><b>Kigi CLI</b> &nbsp;<sub><code>Rust</code> &nbsp;<!--stars:ELY-Open-Source/Kigi-CLI-->★ 7<!--/stars--></sub>
       <br><sub>Open-source coding agent. A planner turns a goal into a dependency graph; workers build nodes in parallel git worktrees; verifiers check each node.</sub>
       <br><sub><a href="https://kigicli.dev">kigicli.dev</a> · <a href="https://github.com/ELY-Open-Source/Kigi-CLI">source</a></sub>
     </td>
@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/elyoffice"><img src="assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 1,304<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 1,329<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
@@ -57,7 +57,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ELYTerminal"><img src="assets/ely-terminal.jpg" width="100%" alt="ELY Terminal"></a>
-      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★ 349<!--/stars--></sub>
+      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★ 351<!--/stars--></sub>
       <br><sub>A terminal built on GPUI and the Ely components.</sub>
       <br><sub><a href="https://github.com/ELY-Open-Source/ELYTerminal">source</a></sub>
     </td>
@@ -84,11 +84,11 @@
 
 | Repository | What it is | Stack | Stars |
 |:--|:--|:--|--:|
-| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,304<!--/stars--> |
+| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,329<!--/stars--> |
 | [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux, a port of Compositor | C++ · Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★ 5<!--/stars--> |
-| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 349<!--/stars--> |
+| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 351<!--/stars--> |
 | [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 165<!--/stars--> |
-| [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 6<!--/stars--> |
+| [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 7<!--/stars--> |
 | [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 7<!--/stars--> |
 | [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★ 44<!--/stars--> |
 | [**MujicaUI**](https://github.com/ELY-Open-Source/MujicaUI) | Court-gothic components for MyGo | Go | <!--stars:ELY-Open-Source/MujicaUI-->★ 18<!--/stars--> |
