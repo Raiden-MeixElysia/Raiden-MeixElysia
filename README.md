@@ -91,7 +91,7 @@
 | [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 8<!--/stars--> |
 | [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 7<!--/stars--> |
 | [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★ 59<!--/stars--> |
-| [**MujicaUI**](https://github.com/ELY-Open-Source/MujicaUI) | Court-gothic components for MyGo | Go | <!--stars:ELY-Open-Source/MujicaUI-->★ 26<!--/stars--> |
+| [**MujicaUI**](https://github.com/ELY-Open-Source/MujicaUI) | Court-gothic components for MyGo | Go | <!--stars:ELY-Open-Source/MujicaUI-->★ 27<!--/stars--> |
 | [**8bitMyGoUI**](https://github.com/ELY-Open-Source/8bitMyGoUI) | 16-bit pixel-art components, in the browser via Wasm | Go | <!--stars:ELY-Open-Source/8bitMyGoUI-->★ 16<!--/stars--> |
 | [**Elydora SDKs**](https://github.com/Elydora-Infra) | [Go](https://github.com/Elydora-Infra/Elydora-Go-SDK) · [Node](https://github.com/Elydora-Infra/Elydora-Node-SDK) · [Python](https://github.com/Elydora-Infra/Elydora-Python-SDK) · [Open Source](https://github.com/Elydora-Infra/Elydora-Open-Source) | Go · JS · Py | |
 
