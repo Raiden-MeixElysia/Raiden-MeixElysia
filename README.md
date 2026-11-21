@@ -37,7 +37,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/elygpui"><img src="assets/elygpui.jpg" width="100%" alt="Ely GPUI"></a>
-      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 224<!--/stars--></sub>
+      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 225<!--/stars--></sub>
       <br><sub>1,272 components for GPUI, the Rust framework behind Zed. Light and dark, and every one runs live in the browser.</sub>
       <br><sub><a href="https://elygpui.com">elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components">source</a></sub>
     </td>
@@ -87,7 +87,7 @@
 | [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,559<!--/stars--> |
 | [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux, a port of Compositor | C++ · Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★ 6<!--/stars--> |
 | [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 443<!--/stars--> |
-| [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 224<!--/stars--> |
+| [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 225<!--/stars--> |
 | [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 8<!--/stars--> |
 | [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 7<!--/stars--> |
 | [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★ 61<!--/stars--> |
