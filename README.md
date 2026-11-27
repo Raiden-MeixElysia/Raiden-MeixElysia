@@ -37,13 +37,13 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/elygpui"><img src="assets/elygpui.jpg" width="100%" alt="Ely GPUI"></a>
-      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 247<!--/stars--></sub>
+      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 251<!--/stars--></sub>
       <br><sub>1,272 components for GPUI, the Rust framework behind Zed. Light and dark, and every one runs live in the browser.</sub>
       <br><sub><a href="https://elygpui.com">elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components">source</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/elyoffice"><img src="assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 1,710<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★ 1,711<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://zacharyzhang.com/agent-company"><img src="assets/agent-company.jpg" width="100%" alt="Agent Company"></a>
-      <br><b>Agent Company</b> &nbsp;<sub><code>Electron</code> &nbsp;<!--stars:ELY-Open-Source/AgentCompany-->★ 7<!--/stars--></sub>
+      <br><b>Agent Company</b> &nbsp;<sub><code>Electron</code> &nbsp;<!--stars:ELY-Open-Source/AgentCompany-->★ 8<!--/stars--></sub>
       <br><sub>A desktop company of AI agents. Set a goal; a CEO agent builds departments, delegates, and reports back from a pixel office.</sub>
       <br><sub><a href="https://agent-company.dev">agent-company.dev</a> · <a href="https://github.com/ELY-Open-Source/AgentCompany">source</a></sub>
     </td>
@@ -84,12 +84,12 @@
 
 | Repository | What it is | Stack | Stars |
 |:--|:--|:--|--:|
-| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,710<!--/stars--> |
+| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust · GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★ 1,711<!--/stars--> |
 | [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux, a port of Compositor | C++ · Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★ 5<!--/stars--> |
 | [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust · GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★ 476<!--/stars--> |
-| [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 247<!--/stars--> |
+| [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components | Rust · Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★ 251<!--/stars--> |
 | [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★ 12<!--/stars--> |
-| [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 7<!--/stars--> |
+| [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★ 8<!--/stars--> |
 | [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★ 66<!--/stars--> |
 | [**MujicaUI**](https://github.com/ELY-Open-Source/MujicaUI) | Court-gothic components for MyGo | Go | <!--stars:ELY-Open-Source/MujicaUI-->★ 27<!--/stars--> |
 | [**8bitMyGoUI**](https://github.com/ELY-Open-Source/8bitMyGoUI) | 16-bit pixel-art components, in the browser via Wasm | Go | <!--stars:ELY-Open-Source/8bitMyGoUI-->★ 18<!--/stars--> |
